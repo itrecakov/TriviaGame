@@ -1,0 +1,24 @@
+body {
+  background: URL(/Users/iva/Desktop/Coding/Homework/TriviaGame/assets/images/Friends.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-color: #e0d04a;
+  font-family: "Amatic SC", cursive;
+  text-align: center;
+  color: #dc4926;
+  font-size: large;
+}
+
+#start {
+  font-size: 50px;
+  font-family: "Amatic SC", cursive;
+  background-color: #52b3f6;
+  color: white;
+}
+
+#end {
+  font-size: 30px;
+  font-family: "Amatic SC", cursive;
+  background-color: #52b3f6;
+  color: white;
+}
